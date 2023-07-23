@@ -23,6 +23,7 @@ public class Program01 {
 	protected static void display() {
 	System.out.println("Its a Good Year");
 	System.out.println("beautiful Day");
+
 	
 
 	
